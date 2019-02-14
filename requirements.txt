@@ -1,0 +1,3 @@
+rise
+jupyter
+web3==5.0.0a5
